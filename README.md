@@ -22,7 +22,7 @@ C#
 * Add more shaders to control camera effects and other objects
 
 # Download Instruction
-* To download the project, simply clone int from github
+* To download the project, simply clone from github
 * To download the execution, go to Assets/ Build and download the Build folder. Inside, there will be executions to run the program
 
 # Project Information
