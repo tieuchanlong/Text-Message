@@ -1,6 +1,8 @@
 # Introduction
 This project a Unity Project that will be used to showcase UI design capabilities and HDRP and VFX graph capabilities. This application simply allows user to select a scene, which will get you to listen to music and also enjoy the environmental design of each level.
 
+![](Title.PNG)
+
 # Development
 This application is developed using Unity, C# and HDRP and URP Package. I spent around a month to develop this project during the last month of the work term to explore new capabilities of Unity Assets. Also, it is a good opportunity to apply new knowledges about Loading Screen for this project as well.
 
